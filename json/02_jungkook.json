@@ -2,10 +2,10 @@
   "Ads": [
     {
 
-      "select_main_ads":"ADMOBX",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"IRONX",
 
-      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_intertitial":"ca-app-pub-5918570076837626/2845206876",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
@@ -16,9 +16,9 @@
 
 
 
-      "admob_native": "xx",
-      "admob_open": "xx",
-      "interval":1,
+      "admob_native": "ca-app-pub-5918570076837626/7905961865",
+      "admob_open": "ca-app-pub-5918570076837626/2653635187",
+      "interval":0,
 
       "hpk_1": "",
       "hpk_2": "",
