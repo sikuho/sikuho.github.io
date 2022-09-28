@@ -1,7 +1,6 @@
 {
   "Ads": [
     {
-
       "select_main_ads":"ADMOB",
       "select_backup_ads":"IRONX",
 
@@ -13,8 +12,6 @@
 
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"203085380",
-
-
 
       "admob_native": "ca-app-pub-5918570076837626/6596083658",
       "admob_open": "ca-app-pub-5918570076837626/3969920312",
