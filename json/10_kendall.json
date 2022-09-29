@@ -2,10 +2,10 @@
   "Ads": [
     {
 
-      "select_main_ads":"ADMOBX",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"IRONX",
 
-      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_intertitial":"ca-app-pub-5918570076837626/7157947160",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
@@ -14,18 +14,16 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"203085380",
 
-
-
-      "admob_native": "xx",
-      "admob_open": "xx",
+      "admob_native": "ca-app-pub-5918570076837626/3684733874",
+      "admob_open": "ca-app-pub-5918570076837626/4531783828",
       "interval":1,
 
       "hpk_1": "",
       "hpk_2": "",
       "hpk_3": "",
       "hpk_4": "",
-      "hpk_5": "",
-      
+      "hpk_5": "ca-app-pub-5918570076837626/3684733874",
+
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
     }
